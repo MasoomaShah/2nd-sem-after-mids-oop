@@ -1,0 +1,2 @@
+def getname():
+    return "jim"
